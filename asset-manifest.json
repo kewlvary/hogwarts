@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hogwarts/static/css/main.4ad219a4.css",
+    "main.js": "/hogwarts/static/js/main.895ae946.js",
+    "static/js/787.9b710af0.chunk.js": "/hogwarts/static/js/787.9b710af0.chunk.js",
+    "static/media/harry_potter_theme.mp3": "/hogwarts/static/media/harry_potter_theme.4b3c6d9f72653c4b2728.mp3",
+    "static/media/use160.cur": "/hogwarts/static/media/use160.250c2000ff24f637399d.cur",
+    "index.html": "/hogwarts/index.html",
+    "main.4ad219a4.css.map": "/hogwarts/static/css/main.4ad219a4.css.map",
+    "main.895ae946.js.map": "/hogwarts/static/js/main.895ae946.js.map",
+    "787.9b710af0.chunk.js.map": "/hogwarts/static/js/787.9b710af0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad219a4.css",
+    "static/js/main.895ae946.js"
+  ]
+}
